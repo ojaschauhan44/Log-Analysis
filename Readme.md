@@ -1,9 +1,9 @@
-#LOG-ANALYSIS
+# LOG-ANALYSIS
  
 Aim of this project is to print report based on data in database by using python.
 
 
-Prerequisites:
+## Prerequisites:
 
 ->PostgreSQL
 
@@ -13,7 +13,7 @@ Prerequisites:
 
 
 
-How To Install
+## How To Install
 
 1.Install Vagrant and VirtualBox.
 
@@ -26,7 +26,7 @@ How To Install
 
 
 
-How to run the virtual machine
+## How to run the virtual machine
 
 
 1.Go to vagrant directory 
@@ -42,7 +42,7 @@ How to run the virtual machine
 6.Use command python analysis.py to run the programm
 
 
-Running the queries:
+## Running the queries:
 
 From the vagrant directory inside the virtual machine,run logs.py using:
   $ python3 logs.py
