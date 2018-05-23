@@ -1,0 +1,25 @@
+
+ which are most popular three articles
+
+The result of the query is---------:
+
+('Candidate is jerk, alleges rival', '--------->', 338647L)
+('Bears love berries, alleges bear', '--------->', 253801L)
+('Bad things gone, say good people', '--------->', 170098L)
+
+
+ who are most popular article authors
+
+The result of the query is---------:
+
+('Ursula La Multa', '--------->', 507594L)
+('Rudolf von Treppenwitz', '--------->', 423457L)
+('Anonymous Contributor', '--------->', 170098L)
+('Markoff Chaney', '--------->', 84557L)
+
+
+which day the error were more than 1%
+
+The result of the query is---------:
+
+Jul 17,2016 --------->2.3% errors
